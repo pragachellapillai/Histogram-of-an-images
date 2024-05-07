@@ -94,6 +94,7 @@ nput Grayscale Image and Color Image:
 ![image](https://github.com/pragachellapillai/Histogram-of-an-images/assets/148254952/a83b5b7e-39a9-4468-9138-5a2bb1f3d385)
 
 Histogram of Grayscale Image and any channel of Color Image:
+
 ![image](https://github.com/pragachellapillai/Histogram-of-an-images/assets/148254952/81f0e0e6-8d5a-46a0-8928-16d21b8cf175)
 
 ![image](https://github.com/pragachellapillai/Histogram-of-an-images/assets/148254952/651e6f1c-d25a-4c07-ad39-aae21d2c5d1b)
